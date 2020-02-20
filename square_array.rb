@@ -1,4 +1,5 @@
 def square_array(array)
   square_array.each do |arr|
-    arr*arr
+    my_statements << arr*arr
+  end
 end
